@@ -1,2 +1,2 @@
 # Notabyte
-Always Better
+This project is the enhanced version of Arsenic.
